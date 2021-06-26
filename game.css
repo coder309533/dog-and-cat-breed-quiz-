@@ -1,0 +1,53 @@
+body
+{
+	background: linear-gradient(190deg, rgba(255,0,56,0.552280287114846) 0%, rgba(0,5,255,0.6979385504201681) 100%);
+	;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+	background-color: cyan;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#login1 {
+	background: radial-gradient(circle, rgba(145,0,255,0.5410758053221288) 0%, rgba(0,254,255,0.5550814075630253) 100%);
+    height: 200px;
+}
+#login2 {
+	background: radial-gradient(circle, rgba(145,0,255,0.5410758053221288) 0%, rgba(0,254,255,0.5550814075630253) 100%);
+    height: 200px;
+}
+#game {
+	font-family: fantasy;
+	color:black;
+	font-weight: 900;
+}
+
+
